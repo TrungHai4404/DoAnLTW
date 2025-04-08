@@ -4,13 +4,17 @@
     ViewData["Title"] = "Quản lý danh mục";
 }
 <link rel="stylesheet" href="~/css/categoryView.css" asp-append-version="true" />
-<link rel="stylesheet" href="~/css/button.css asp-append-version="true" />
+<link rel="stylesheet" href="~/css/button.css" asp-append-version="true" />
 
 <div class="admin-container">
     <h2>Danh mục sản phẩm</h2>
-    <div class="button-add">
-        <a asp-action="Add" class="btn add-category-btn">Thêm danh mục mới</a>
-    </div>
+    @if (User.IsInRole("Employee"))
+    {
+        <div class="button-add">
+            <a asp-action="Add" class="btn add-category-btn">Thêm danh mục mới</a>
+        </div>
+    }
+    
     <table class="admin-table">
         <thead>
             <tr>
@@ -29,7 +33,11 @@
                         <td>@category.Name</td>
                         <td class="action-links">
                             <a asp-action="Edit" asp-route-id="@category.Id" class="btn edit-btn" title="Sửa">✏️</a> |
-                            <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger delete-btn" title="Xóa">🗑</a>
+                            @if (User.IsInRole("Employee"))
+                            {
+                                <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger delete-btn" title="Xóa">🗑</a>
+                            }
+                            
                         </td>
                     </tr>
                 }

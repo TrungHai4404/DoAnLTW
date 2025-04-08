@@ -51,8 +51,8 @@
                                 <td>@order.FinalAmount?.ToString("N0")đ</td>
                                 <td>
                                     <select class="form-select form-select-sm status-select"
-                                            data-order-id="@order.Id"
-                                            onchange="updateOrderStatus(this)">
+                                    data-order-id="@order.Id"
+                                    onchange="updateOrderStatus(this)">
                                         @foreach (OrderStatus status in Enum.GetValues(typeof(OrderStatus)))
                                         {
                                             <option value="@status.ToString()" selected="@(order.Status == status)">
@@ -63,11 +63,15 @@
                                 </td>
                                 <td>
                                     <a asp-action="Details" asp-route-id="@order.Id"
-                                       class="bton btn-info btn-sm">Xem
+                                    class="bton btn-info btn-sm">Xem
                                     </a>
-                                    <a asp-action="Delete" asp-route-id="@order.Id"
-                                       class="bton btn-danger btn-sm">Xóa
-                                    </a>
+                                    @if (User.IsInRole("Employee"))
+                                    {
+                                        <a asp-action="Delete" asp-route-id="@order.Id"
+                                           class="bton btn-danger btn-sm">
+                                            Xóa
+                                        </a>
+                                    }
                                 </td>
                             </tr>
                         }

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\Order.css"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css",
+      "PackagePath": "staticwebassets\\css\\Review-admin.css"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\RoleManager.css",
       "PackagePath": "staticwebassets\\css\\RoleManager.css"
     },
@@ -73,6 +77,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Redmi Bud6.png",
+      "PackagePath": "staticwebassets\\images\\Redmi Bud6.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Xiaomi_logo.png",
       "PackagePath": "staticwebassets\\images\\Xiaomi_logo.png"
     },
@@ -85,6 +93,10 @@
       "PackagePath": "staticwebassets\\images\\banner1.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner10.jpg",
+      "PackagePath": "staticwebassets\\images\\banner10.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner2.jpg",
       "PackagePath": "staticwebassets\\images\\banner2.jpg"
     },
@@ -93,12 +105,36 @@
       "PackagePath": "staticwebassets\\images\\banner3.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner7.png",
+      "PackagePath": "staticwebassets\\images\\banner7.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner8.png",
+      "PackagePath": "staticwebassets\\images\\banner8.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner9.png",
+      "PackagePath": "staticwebassets\\images\\banner9.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner_introduce.jpg",
       "PackagePath": "staticwebassets\\images\\banner_introduce.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner_introduce2.jpg",
       "PackagePath": "staticwebassets\\images\\banner_introduce2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\earfun-air-mini-2.png",
+      "PackagePath": "staticwebassets\\images\\earfun-air-mini-2.png"
     },
     {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-blue-1.png",
@@ -131,6 +167,14 @@
     {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-ultra-titan-white-silver.png",
       "PackagePath": "staticwebassets\\images\\galaxy-s25-ultra-titan-white-silver.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (60).png",
+      "PackagePath": "staticwebassets\\images\\image-removebg-preview (60).png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (62).png",
+      "PackagePath": "staticwebassets\\images\\image-removebg-preview (62).png"
     },
     {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-den-1.png",
@@ -241,6 +285,10 @@
       "PackagePath": "staticwebassets\\images\\logo-vivo.png"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\opLungiPhone.png",
+      "PackagePath": "staticwebassets\\images\\opLungiPhone.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\oppo-reno13f-atus-purple.png",
       "PackagePath": "staticwebassets\\images\\oppo-reno13f-atus-purple.png"
     },
@@ -297,6 +345,30 @@
       "PackagePath": "staticwebassets\\images\\realme.jpg"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh duong.jpg",
+      "PackagePath": "staticwebassets\\images\\redmi-14c_Xanh duong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh la.jpg",
+      "PackagePath": "staticwebassets\\images\\redmi-14c_Xanh la.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-black-1.png",
+      "PackagePath": "staticwebassets\\images\\redmi-buds-5-pro-black-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-white-1.png",
+      "PackagePath": "staticwebassets\\images\\redmi-buds-5-pro-white-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png",
+      "PackagePath": "staticwebassets\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-white-case-front.png",
+      "PackagePath": "staticwebassets\\images\\redmi-buds-6-o77-white-case-front.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\samsung-logo.png",
       "PackagePath": "staticwebassets\\images\\samsung-logo.png"
     },
@@ -321,8 +393,48 @@
       "PackagePath": "staticwebassets\\images\\xiaomi-14-white.png"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-den.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-15-den.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-trang.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-15-trang.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-logo.png",
       "PackagePath": "staticwebassets\\images\\xiaomi-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Den.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-13_Den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Hong.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-13_Hong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Vang.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-13_Vang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Xanh duong.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-13_Xanh duong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-14c_Den.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-14c_Den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Den.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-a3_Den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh duong.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-a3_Xanh duong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh la.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi-redmi-a3_Xanh la.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\js\\newFile.js",

@@ -83,8 +83,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
                     if (!IsValidImage(ImageUrl))
                     {
                         ModelState.AddModelError("ImageUrl", "Hình ảnh không hợp lệ");
-                        ViewBag.Categories = new SelectList(await _categoryRepository.GetAllAsync(), "Id", "Name");
-                        ViewBag.Brands = new SelectList(await _brandRepository.GetAllAsync(), "Id", "Name");
+                        await PrepareViewBags();
                         return View(product);
                     }
                     product.ImageUrl = await SaveImage(ImageUrl);
@@ -96,7 +95,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
                         if (!IsValidImage(image))
                         {
                             ModelState.AddModelError("ImageUrls", "Hình ảnh không hợp lệ");
-                            PrepareViewBags();
+                            await PrepareViewBags();
                             return View(product);
                         }
                         var imageUrl = await SaveImage(image);
@@ -118,7 +117,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
 
                 return RedirectToAction(nameof(Index));
             }
-            PrepareViewBags();
+            await PrepareViewBags();
             return View(product);
         }
 

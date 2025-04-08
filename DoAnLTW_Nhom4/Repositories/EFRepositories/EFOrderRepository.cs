@@ -52,7 +52,13 @@ namespace DoAnLTW_Nhom4.Repositories.EFRepositories
                 await _context.SaveChangesAsync();
             }
         }
+        public async Task<IEnumerable<Order>> GetPendingOrders()
+        {
+            return await _context.Orders
+                .Where(o => o.Status == 0) // Giả sử 0 = Pending
+                .OrderByDescending(o => o.OrderDate)
+                .ToListAsync();
+        }
 
-        
     }
 }

@@ -38,6 +38,7 @@ namespace DoAnLTW_Nhom4.Models
         Processing,
         Shipped,
         Delivered,
-        Cancelled
+        Cancelled,
+        Paid
     }
 }

@@ -7,7 +7,7 @@ using DoAnLTW_Nhom4.Data;
 namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     public class CouponController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -18,12 +18,14 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
         }
 
         // GET: Admin/Coupon
+        [Authorize(Roles = $"{SD.Role_Admin},{SD.Role_Employee}")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Coupons.ToListAsync());
         }
 
         // GET: Admin/Coupon/Create
+        [Authorize(Roles = $"{SD.Role_Admin}")]
         public IActionResult Create()
         {
             return View();
@@ -32,6 +34,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
         // POST: Admin/Coupon/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = $"{SD.Role_Admin}")]
         public async Task<IActionResult> Create([Bind("Code,DiscountPercentage,ExpiryDate,Description,UsageLimit,MinimumOrderAmount")] Coupon coupon)
         {
             if (ModelState.IsValid)
@@ -62,6 +65,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
         }
 
         // GET: Admin/Coupon/Edit/5
+        [Authorize(Roles = $"{SD.Role_Admin},{SD.Role_Employee}")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -80,6 +84,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
         // POST: Admin/Coupon/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = $"{SD.Role_Admin},{SD.Role_Employee}")]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Code,DiscountPercentage,ExpiryDate,IsActive,Description,UsageLimit,MinimumOrderAmount")] Coupon coupon)
         {
             if (id != coupon.Id)
@@ -112,6 +117,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
 
         // POST: Admin/Coupon/Delete/5
         [HttpPost]
+        [Authorize(Roles = $"{SD.Role_Admin}")]
         public async Task<IActionResult> Delete(int id)
         {
             var coupon = await _context.Coupons.FindAsync(id);

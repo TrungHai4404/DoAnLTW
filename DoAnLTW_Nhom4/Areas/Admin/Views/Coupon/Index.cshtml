@@ -49,9 +49,11 @@
                                     <a asp-action="Edit" asp-route-id="@item.Id" class="btn edit-btn">
                                         Sửa
                                     </a>
-                                    <button class="btn delete-btn" data-id="@item.Id">
-                                        Xóa
-                                    </button>
+                                    @if (User.IsInRole("Employee"))
+                                    {
+                                        <button class="btn delete-btn" data-id="@item.Id">Xóa</button>
+                                    }
+
                                 </td>
                             </tr>
                         }

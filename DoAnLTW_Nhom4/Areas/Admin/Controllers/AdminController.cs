@@ -124,7 +124,7 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-
+            
             var user = await _userManager.FindByIdAsync(id);
             if (user == null)
             {

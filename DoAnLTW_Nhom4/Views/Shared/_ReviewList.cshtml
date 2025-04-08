@@ -7,14 +7,15 @@
         @foreach (var review in Model)
         {
             <li>
-                <strong>@review.UserName</strong> - @review.Rating ⭐
-                <p>@review.Comment</p>
-                <small>@review.CreatedAt.ToString("dd/MM/yyyy")</small>
+                <strong>Người dùng: @review.UserName</strong> - @review.Rating ⭐
+                <small>Ngày đăng:@review.CreatedAt.ToString("dd/MM/yyyy")</small>
+                <p>Nội dung: @review.Comment</p>
+                
             </li>
         }
     </ul>
 }
 else
 {
-    <p>Chưa có đánh giá nào.</p>
+    <p>Chưa có đánh giá nào cho sản phẩm này.</p>
 }

@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnLTW\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{025D1B62-BC8B-43E5-B641-3E2F0129BB21}|DoAnLTW_Nhom4\\DoAnLTW_Nhom4.csproj|c:\\users\\lenovo\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\doanltw_nhom4\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025D1B62-BC8B-43E5-B641-3E2F0129BB21}|DoAnLTW_Nhom4\\DoAnLTW_Nhom4.csproj|solutionrelative:doanltw_nhom4\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025D1B62-BC8B-43E5-B641-3E2F0129BB21}|DoAnLTW_Nhom4\\DoAnLTW_Nhom4.csproj|c:\\users\\lenovo\\onedrive\\m\u00E1y t\u00EDnh\\doanltw\\doanltw_nhom4\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025D1B62-BC8B-43E5-B641-3E2F0129BB21}|DoAnLTW_Nhom4\\DoAnLTW_Nhom4.csproj|solutionrelative:doanltw_nhom4\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnLTW\\DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnLTW\\DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:24:19.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnLTW\\DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnLTW\\DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "DoAnLTW_Nhom4\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAEQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:24:04.295Z",
-              "EditorCaption": ""
             }
           ]
         },

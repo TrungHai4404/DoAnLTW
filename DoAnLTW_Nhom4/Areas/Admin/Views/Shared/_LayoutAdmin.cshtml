@@ -1,4 +1,19 @@
-﻿<!DOCTYPE html>
+﻿@functions {
+    public string IsActive(string controller, string? action = null, string? area = "Admin")
+    {
+        var routeData = ViewContext.RouteData;
+        var currentController = routeData.Values["controller"]?.ToString();
+        var currentAction = routeData.Values["action"]?.ToString();
+        var currentArea = routeData.Values["area"]?.ToString();
+
+        bool controllerMatch = controller == currentController;
+        bool actionMatch = action == null || action == currentAction;
+        bool areaMatch = area == null || area == currentArea;
+
+        return (controllerMatch && actionMatch && areaMatch) ? "active" : "";
+    }
+}
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +22,7 @@
     <link rel="stylesheet" href="~/css/productView.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/button.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Review-admin.css" asp-append-version="true" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Toastr CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
@@ -24,29 +40,57 @@
         <!-- Header -->
         <header class="header">
             <a href="/Admin/Home/Index" class="logo">🛠 Admin Dashboard</a>
+            <div class="user-info">
+                <form class="logout-form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link nav-button nav-logout">Đăng xuất</button>
+                </form>
+            </div>
         </header>
 
         <!-- Menu điều hướng -->
         <nav class="nav">
             <ul>
-                <li><a href="/Admin/Home/Index">Trang chủ</a></li>
-                <li><a href="/Admin/Category/index">Quản lý danh mục</a></li>
-                <li><a href="/Admin/Brand/index">Quản lý thương hiệu</a></li>
-                <li><a href="/Admin/Product/Index">Quản lý sản phẩm</a></li>
-                <li><a asp-area="Admin" asp-controller="Admin" asp-action="Index">Quản lý người dùng</a></li>
-                <li><a asp-area="Admin" asp-controller="Order" asp-action="Index">Quản lý đơn hàng</a></li>
-                <li><a asp-area="Admin" asp-controller="Coupon" asp-action="Index">Khuyến mãi</a></li>
-                <li><a asp-area="Home" asp-controller="Home" asp-action="Index">Trang Bán Hàng</a></li>
+                <li class="@(IsActive("Home", "Index"))">
+                    <a href="/Admin/Home/Index">Trang chủ</a>
+                </li>
+                <li class="@(IsActive("Category", null))">
+                    <a href="/Admin/Category/Index">Quản lý danh mục</a>
+                </li>
+                <li class="@(IsActive("Brand", null))">
+                    <a href="/Admin/Brand/Index">Quản lý thương hiệu</a>
+                </li>
+                <li class="@(IsActive("Product", null))">
+                    <a href="/Admin/Product/Index">Quản lý sản phẩm</a>
+                </li>
+                <li class="@(IsActive("Admin", null))">
+                    <a asp-area="Admin" asp-controller="Admin" asp-action="Index">Quản lý người dùng</a>
+                </li>
+                <li class="@(IsActive("Order", null))">
+                    <a asp-area="Admin" asp-controller="Order" asp-action="Index">Quản lý đơn hàng</a>
+                </li>
+                <li class="@(IsActive("Coupon", null))">
+                    <a asp-area="Admin" asp-controller="Coupon" asp-action="Index">Khuyến mãi</a>
+                </li>
+                <li class="@(IsActive("Reviews", null))">
+                    <a asp-area="Admin" asp-controller="Reviews" asp-action="Index">Quản lý đánh giá</a>
+                </li>
+                <li class="@(IsActive("Home", "Index", "Home"))">
+                    <a asp-area="Home" asp-controller="Home" asp-action="Index">Trang Bán Hàng</a>
+                </li>
             </ul>
         </nav>
+
 
         <!-- Nội dung chính -->
         <div class="container">
             <aside class="sidebar">
                 <h4>CHỨC NĂNG QUẢN TRỊ</h4>
                 <ul class="admin-menu">
-                    <li><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Thống kê</a></li>
-                    <li><a href="/Admin/Product/Add">Thêm sản phẩm</a></li>
+                    <li><a asp-area="Admin" asp-controller="Category" asp-action="Add">Thêm danh mục</a></li>
+                    <li><a asp-area="Admin" asp-controller="Brand" asp-action="Add">Thêm thương hiệu</a></li>
+                    <li><a asp-area="Admin" asp-controller="Product" asp-action="Add">Thêm sản phẩm</a></li>
+                    <li><a asp-area="Admin" asp-controller="Coupon" asp-action="Create">Thêm khuyến mãi</a></li>
+
                     <li><a asp-area="Admin" asp-controller="Order" asp-action="Pending">Đơn hàng chờ xử lý</a></li>
                 </ul>
             </aside>
@@ -54,7 +98,9 @@
                 @RenderBody()
             </main>
         </div>
-
+        <footer class="footer">
+            <p>&copy; 2023 DoAnLTW_Nhom4. All rights reserved.</p>
+        </footer>
     </div>
     @RenderSection("Scripts", required: false)
 </body>

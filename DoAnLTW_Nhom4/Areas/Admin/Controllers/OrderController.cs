@@ -133,5 +133,11 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
                 return RedirectToAction(nameof(Index));
             }
         }
+        // GET: /Admin/Order/Pending
+        public async Task<IActionResult> Pending()
+        {
+            var pendingOrders = await _orderRepository.GetPendingOrders();
+            return View(pendingOrders);
+        }
     }
 } 

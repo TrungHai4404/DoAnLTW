@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dq6g/xLQhgfqLvXqDSPqjpJfzPT0KCZrJvDe12M8sFY=",
+  "Hash": "tXRkVAsOln8UYc/yjunMqcOhF3KapGDwlMFFAQERnaA=",
   "Source": "DoAnLTW_Nhom4",
   "BasePath": "_content/DoAnLTW_Nhom4",
   "Mode": "Default",
@@ -2600,12 +2600,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-jfyn59o3pg.gz",
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-bqksjq4fkw.gz",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DoAnLTW_Nhom4",
-      "RelativePath": "css/style#[.{fingerprint=jfyn59o3pg}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint=bqksjq4fkw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2614,8 +2614,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cr94fdqylc",
-      "Integrity": "mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k=",
+      "Fingerprint": "zz5pogq0ez",
+      "Integrity": "YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css"
@@ -3083,12 +3083,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-gmibbwig4n.gz",
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-bqtn5d9m0f.gz",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DoAnLTW_Nhom4",
-      "RelativePath": "css/admin#[.{fingerprint=gmibbwig4n}]?.css.gz",
+      "RelativePath": "css/admin#[.{fingerprint=bqtn5d9m0f}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3097,8 +3097,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "po50q4pvb2",
-      "Integrity": "N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA=",
+      "Fingerprint": "bx0v6jhvif",
+      "Integrity": "b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css"
@@ -4175,6 +4175,27 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ynug365q98-xrg3yztsjc.gz",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "css/Review-admin#[.{fingerprint=xrg3yztsjc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0zvxik5nfk",
+      "Integrity": "HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ypazbdnvlh-zub09dkrxp.gz",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -4399,8 +4420,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gmibbwig4n",
-      "Integrity": "+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4=",
+      "Fingerprint": "bqtn5d9m0f",
+      "Integrity": "vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\admin.css"
@@ -4658,6 +4679,27 @@
       "OriginalItemSpec": "wwwroot\\css\\productView.css"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "css/Review-admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xrg3yztsjc",
+      "Integrity": "rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Review-admin.css"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\RoleManager.css",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -4714,8 +4756,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jfyn59o3pg",
-      "Integrity": "DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ=",
+      "Fingerprint": "bqksjq4fkw",
+      "Integrity": "DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -4826,6 +4868,27 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.jpg"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner10.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ijbw1sdoay",
+      "Integrity": "bmPmP0kUtENMSE5Lj/wq/kd87El3wppgWN2wLSM7lwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner10.jpg"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner2.jpg",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -4866,6 +4929,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\banner3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner5.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w0xocuzdd4",
+      "Integrity": "0A6mor9hu0bUAS6OYm6alHBmh6CfBHzU218kk2HF6K0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner6.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uo0d1fgwog",
+      "Integrity": "voHTwpGmciFv2NvRgtNV64/a1QA/rgTAvCzrFgFo6pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner7.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9rdzcymret",
+      "Integrity": "m1ubUfvaY4Xnz1Z6xiGwBu7n+qpLEwkKS2uiZopdkOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner7.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner8.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ylfo7fnahs",
+      "Integrity": "BlgesSJmjSosh3//jUvatPNXjaDHCoxxPeEVwJD2VXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner8.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner9.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/banner9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3hgxwj5mp",
+      "Integrity": "jGvtpA7NyPYF8lbI5RSIySUHpZy7kJB9DZorYayJmrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner9.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\earfun-air-mini-2.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/earfun-air-mini-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fd1opd9e1b",
+      "Integrity": "DcYnOqTW5OK48HIVHrSA1yADCSikjKEjuhc+a0mOcc4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\earfun-air-mini-2.png"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-blue-1.png",
@@ -5034,6 +5223,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\galaxy-s25-ultra-titan-white-silver.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (60).png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/image-removebg-preview (60)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fvp0nwzjml",
+      "Integrity": "BZalHPclFCrkVxrKwzJBRIm9IghmeleaFQUTEJU1pQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-removebg-preview (60).png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (62).png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/image-removebg-preview (62)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwdx3nadci",
+      "Integrity": "YbyyNz/SWnDfP7Jqp4mQj2aco2YzuvD+qogyF4+JsNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-removebg-preview (62).png"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-den-1.png",
@@ -5603,6 +5834,27 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-vivo.png"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\opLungiPhone.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/opLungiPhone#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jswmyku85f",
+      "Integrity": "g2GDqI7KscsKAkcRT/zQo7fK284uaZnNyXHsZ81NLOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\opLungiPhone.png"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\oppo-reno13f-atus-purple.png",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -5897,6 +6149,153 @@
       "OriginalItemSpec": "wwwroot\\images\\realme.jpg"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Redmi Bud6.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/Redmi Bud6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tu4bqczde3",
+      "Integrity": "VWeEVpzrNm4uFJm+mEGnjlpan8FqbOKmIaBztEekEmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Redmi Bud6.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh duong.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-14c_Xanh duong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8c4lpzlz3q",
+      "Integrity": "OD4uEhAGbI9sfILmOFtWUZu6pM5dCety8cHhrKi9WRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-14c_Xanh duong.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh la.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-14c_Xanh la#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32it0wcywr",
+      "Integrity": "q8COLgVbnq8ogEQHh1VWWbIcFQ3QfTzmZ8MKvugre6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-14c_Xanh la.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-black-1.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-buds-5-pro-black-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j24jxmbuci",
+      "Integrity": "pVtVYyTotw2AC9sePTjYBpBKK8mAv5gC2+dhGmWRPT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-buds-5-pro-black-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-white-1.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-buds-5-pro-white-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hru5ep2nu",
+      "Integrity": "a+xgSHtNjYPBs/dPbE9Txn82Y0+nUf3lynmIHawk0x4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-buds-5-pro-white-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-buds-6-o77-black-caseopen-frontleft#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpy8s7lu3f",
+      "Integrity": "T7aaZIJ3rrba0FG+1GnAHRPfs8skKghBSOOVcWfk+mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-white-case-front.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/redmi-buds-6-o77-white-case-front#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mklqq5eig3",
+      "Integrity": "SiI+vwHOVNnEYqECehoauELQEqBMWV9Q5G0kJ0uRO0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redmi-buds-6-o77-white-case-front.png"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\samsung-logo.png",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -6044,6 +6443,48 @@
       "OriginalItemSpec": "wwwroot\\images\\xiaomi-14-white.png"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-den.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-15-den#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f93q4226gi",
+      "Integrity": "/QCmwdfnYj64oN6v7QYpOs64Esgm2mXWrn+s299DH+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-15-den.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-trang.png",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-15-trang#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pluubfd0qz",
+      "Integrity": "bU2J4zBLUDga+ZyjMY96bT3dnXamBu4dc5qdkiW+l/Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-15-trang.png"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-logo.png",
       "SourceId": "DoAnLTW_Nhom4",
       "SourceType": "Discovered",
@@ -6063,6 +6504,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\xiaomi-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Den.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-13_Den#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y51l5ntfa2",
+      "Integrity": "JmpgvpoJvjJN4crLiqFcNoFxdZL+4neT4koLumBz2F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-13_Den.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Hong.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-13_Hong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lnq9ha4y19",
+      "Integrity": "Mch63joJq4M0GhsxOLVNDncwjGx/NJl6uooKM7ZxZ/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-13_Hong.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Vang.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-13_Vang#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "su578dgyza",
+      "Integrity": "nArjeoqO98SjRqRFIMHG/cU/kF4nGDgPH2jmxYVO8Mw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-13_Vang.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Xanh duong.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-13_Xanh duong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mrqfhxgqxu",
+      "Integrity": "Qoqq3ckKShA4YT3sZxqPVWvWVjVns8WKEV50ltc+k1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-13_Xanh duong.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-14c_Den.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-14c_Den#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4it58oppvy",
+      "Integrity": "ZKOb7VCHFDLXNHsYZMy0ErCtiUfY03MqeC5SOC8FCOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-14c_Den.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Den.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-a3_Den#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49rfbb3ck",
+      "Integrity": "AVIV1SMZwnsgX/Q9HDnhajpJmfvA9QoeGCmFC7639ac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-a3_Den.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh duong.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-a3_Xanh duong#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "foofk5z1v1",
+      "Integrity": "r2LxTA9Bc1kIswDuLXkBTidyTELmv/+1am6cXV6M86E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-a3_Xanh duong.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh la.jpg",
+      "SourceId": "DoAnLTW_Nhom4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW_Nhom4",
+      "RelativePath": "images/xiaomi-redmi-a3_Xanh la#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nagzjz3ezf",
+      "Integrity": "wbN3Pb9536fXqOnhisUc556MWlGBwKRjE2J9GqZ1WuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xiaomi-redmi-a3_Xanh la.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\js\\newFile.js",
@@ -7390,13 +7999,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/admin.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-gmibbwig4n.gz",
+      "Route": "css/admin.bqtn5d9m0f.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-bqtn5d9m0f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001248439451"
+          "Quality": "0.000910746812"
         }
       ],
       "ResponseHeaders": [
@@ -7406,19 +8015,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "800"
+          "Value": "1097"
         },
         {
           "Name": "ETag",
-          "Value": "\"N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA=\""
+          "Value": "\"b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -7434,18 +8043,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4=\""
+          "Value": "W/\"vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bqtn5d9m0f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4="
+          "Value": "sha256-vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg="
         }
       ]
     },
     {
-      "Route": "css/admin.css",
+      "Route": "css/admin.bqtn5d9m0f.css",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7455,7 +8072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2734"
+          "Value": "4012"
         },
         {
           "Name": "Content-Type",
@@ -7463,121 +8080,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4=\""
+          "Value": "\"vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4="
-        }
-      ]
-    },
-    {
-      "Route": "css/admin.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-gmibbwig4n.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "800"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA="
-        }
-      ]
-    },
-    {
-      "Route": "css/admin.gmibbwig4n.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-gmibbwig4n.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001248439451"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "800"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gmibbwig4n"
+          "Value": "bqtn5d9m0f"
         },
         {
           "Name": "label",
@@ -7585,13 +8102,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4="
+          "Value": "sha256-vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg="
         }
       ]
     },
     {
-      "Route": "css/admin.gmibbwig4n.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css",
+      "Route": "css/admin.bqtn5d9m0f.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-bqtn5d9m0f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7600,7 +8117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2734"
+          "Value": "1097"
         },
         {
           "Name": "Content-Type",
@@ -7608,56 +8125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4=\""
+          "Value": "\"b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gmibbwig4n"
-        },
-        {
-          "Name": "label",
-          "Value": "css/admin.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+EGWH8gCtnn/AR0H54tJqBYdIgw6rplLT8pghWwWAk4="
-        }
-      ]
-    },
-    {
-      "Route": "css/admin.gmibbwig4n.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-gmibbwig4n.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "800"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 13:45:11 GMT"
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7675,7 +8147,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gmibbwig4n"
+          "Value": "bqtn5d9m0f"
         },
         {
           "Name": "label",
@@ -7683,7 +8155,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N6ml1apr++Hxrxdc68mske56xvHMsK9wfI0EOPeDlrA="
+          "Value": "sha256-b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-bqtn5d9m0f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000910746812"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vYCnvmebAVz5Z2cQCbaia1nLa4mrt8sfSht4iWvWHFg="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\n70u1m4gju-bqtn5d9m0f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b9hxZdMlo8g+PhF6mO2LnC0uniZbgzvBtlDzk8yKERk="
         }
       ]
     },
@@ -11264,6 +11873,304 @@
       ]
     },
     {
+      "Route": "css/Review-admin.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ynug365q98-xrg3yztsjc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001779359431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Review-admin.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Review-admin.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ynug365q98-xrg3yztsjc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Review-admin.xrg3yztsjc.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ynug365q98-xrg3yztsjc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001779359431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrg3yztsjc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Review-admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Review-admin.xrg3yztsjc.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Review-admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrg3yztsjc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Review-admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRU1i9yPGrpWwLbbAL8PRvs9uQtlVaPaf8Rk0djbrnQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Review-admin.xrg3yztsjc.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ynug365q98-xrg3yztsjc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrg3yztsjc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Review-admin.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFIMDUWa1TETCcJLS2ORiE2bJnxibOQlJtnRN/orKlk="
+        }
+      ]
+    },
+    {
       "Route": "css/RoleManager.5ipweew5fc.css",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\ko2z219t4p-5ipweew5fc.gz",
       "Selectors": [
@@ -11897,13 +12804,13 @@
       ]
     },
     {
-      "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-jfyn59o3pg.gz",
+      "Route": "css/style.bqksjq4fkw.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-bqksjq4fkw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000346260388"
+          "Quality": "0.000344352617"
         }
       ],
       "ResponseHeaders": [
@@ -11913,19 +12820,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2887"
+          "Value": "2903"
         },
         {
           "Name": "ETag",
-          "Value": "\"mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k=\""
+          "Value": "\"YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -11941,18 +12848,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ=\""
+          "Value": "W/\"DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bqksjq4fkw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ="
+          "Value": "sha256-DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI="
         }
       ]
     },
     {
-      "Route": "css/style.css",
+      "Route": "css/style.bqksjq4fkw.css",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11962,7 +12877,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11677"
+          "Value": "11781"
         },
         {
           "Name": "Content-Type",
@@ -11970,121 +12885,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ=\""
+          "Value": "\"DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-jfyn59o3pg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2887"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.jfyn59o3pg.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-jfyn59o3pg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000346260388"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2887"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jfyn59o3pg"
+          "Value": "bqksjq4fkw"
         },
         {
           "Name": "label",
@@ -12092,13 +12907,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ="
+          "Value": "sha256-DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI="
         }
       ]
     },
     {
-      "Route": "css/style.jfyn59o3pg.css",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css",
+      "Route": "css/style.bqksjq4fkw.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-bqksjq4fkw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12107,7 +12922,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11677"
+          "Value": "2903"
         },
         {
           "Name": "Content-Type",
@@ -12115,56 +12930,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ=\""
+          "Value": "\"YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jfyn59o3pg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DzduNwfqAGB3LKOeQdUe02RkSLzBxakMQ51fGNOPRMQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.jfyn59o3pg.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-jfyn59o3pg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2887"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 19:10:45 GMT"
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12182,7 +12952,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jfyn59o3pg"
+          "Value": "bqksjq4fkw"
         },
         {
           "Name": "label",
@@ -12190,7 +12960,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mBJRnu59K7DtgqMpmjeN1kw+5bCjOOFqUHKerLaP82k="
+          "Value": "sha256-YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-bqksjq4fkw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000344352617"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQ2qv5KvkFD5/cDRYErhcbiwjtjtA4BnFg0mOFGIYuI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Debug\\net9.0\\compressed\\h5ztrioo5q-bqksjq4fkw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YR2rTFvvVXeX3ShZ14jzKETun4Bt4WWrNkmwfB7jLZk="
         }
       ]
     },
@@ -21985,6 +22892,88 @@
       ]
     },
     {
+      "Route": "images/banner10.ijbw1sdoay.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bmPmP0kUtENMSE5Lj/wq/kd87El3wppgWN2wLSM7lwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:29:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijbw1sdoay"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bmPmP0kUtENMSE5Lj/wq/kd87El3wppgWN2wLSM7lwU="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner10.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bmPmP0kUtENMSE5Lj/wq/kd87El3wppgWN2wLSM7lwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:29:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bmPmP0kUtENMSE5Lj/wq/kd87El3wppgWN2wLSM7lwU="
+        }
+      ]
+    },
+    {
       "Route": "images/banner2.caf2s5mmis.jpg",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner2.jpg",
       "Selectors": [],
@@ -22145,6 +23134,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-63Rr1iYNkQoemva9yk7AjT4TJLO07u/wwBN6fiw+DQo="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner5.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0A6mor9hu0bUAS6OYm6alHBmh6CfBHzU218kk2HF6K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0A6mor9hu0bUAS6OYm6alHBmh6CfBHzU218kk2HF6K0="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner5.w0xocuzdd4.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0A6mor9hu0bUAS6OYm6alHBmh6CfBHzU218kk2HF6K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0xocuzdd4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0A6mor9hu0bUAS6OYm6alHBmh6CfBHzU218kk2HF6K0="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner6.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voHTwpGmciFv2NvRgtNV64/a1QA/rgTAvCzrFgFo6pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-voHTwpGmciFv2NvRgtNV64/a1QA/rgTAvCzrFgFo6pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner6.uo0d1fgwog.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voHTwpGmciFv2NvRgtNV64/a1QA/rgTAvCzrFgFo6pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uo0d1fgwog"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-voHTwpGmciFv2NvRgtNV64/a1QA/rgTAvCzrFgFo6pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner7.9rdzcymret.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m1ubUfvaY4Xnz1Z6xiGwBu7n+qpLEwkKS2uiZopdkOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rdzcymret"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m1ubUfvaY4Xnz1Z6xiGwBu7n+qpLEwkKS2uiZopdkOg="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner7.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m1ubUfvaY4Xnz1Z6xiGwBu7n+qpLEwkKS2uiZopdkOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m1ubUfvaY4Xnz1Z6xiGwBu7n+qpLEwkKS2uiZopdkOg="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner8.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BlgesSJmjSosh3//jUvatPNXjaDHCoxxPeEVwJD2VXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BlgesSJmjSosh3//jUvatPNXjaDHCoxxPeEVwJD2VXM="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner8.ylfo7fnahs.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BlgesSJmjSosh3//jUvatPNXjaDHCoxxPeEVwJD2VXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylfo7fnahs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BlgesSJmjSosh3//jUvatPNXjaDHCoxxPeEVwJD2VXM="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner9.g3hgxwj5mp.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGvtpA7NyPYF8lbI5RSIySUHpZy7kJB9DZorYayJmrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3hgxwj5mp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGvtpA7NyPYF8lbI5RSIySUHpZy7kJB9DZorYayJmrA="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner9.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGvtpA7NyPYF8lbI5RSIySUHpZy7kJB9DZorYayJmrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 10:28:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGvtpA7NyPYF8lbI5RSIySUHpZy7kJB9DZorYayJmrA="
+        }
+      ]
+    },
+    {
+      "Route": "images/earfun-air-mini-2.fd1opd9e1b.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\earfun-air-mini-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DcYnOqTW5OK48HIVHrSA1yADCSikjKEjuhc+a0mOcc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fd1opd9e1b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/earfun-air-mini-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcYnOqTW5OK48HIVHrSA1yADCSikjKEjuhc+a0mOcc4="
+        }
+      ]
+    },
+    {
+      "Route": "images/earfun-air-mini-2.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\earfun-air-mini-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DcYnOqTW5OK48HIVHrSA1yADCSikjKEjuhc+a0mOcc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:43:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcYnOqTW5OK48HIVHrSA1yADCSikjKEjuhc+a0mOcc4="
         }
       ]
     },
@@ -22805,6 +24286,170 @@
       ]
     },
     {
+      "Route": "images/image-removebg-preview (60).fvp0nwzjml.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (60).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BZalHPclFCrkVxrKwzJBRIm9IghmeleaFQUTEJU1pQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvp0nwzjml"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-removebg-preview (60).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZalHPclFCrkVxrKwzJBRIm9IghmeleaFQUTEJU1pQk="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-removebg-preview (60).png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (60).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BZalHPclFCrkVxrKwzJBRIm9IghmeleaFQUTEJU1pQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BZalHPclFCrkVxrKwzJBRIm9IghmeleaFQUTEJU1pQk="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-removebg-preview (62).fwdx3nadci.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (62).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YbyyNz/SWnDfP7Jqp4mQj2aco2YzuvD+qogyF4+JsNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwdx3nadci"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-removebg-preview (62).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YbyyNz/SWnDfP7Jqp4mQj2aco2YzuvD+qogyF4+JsNQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-removebg-preview (62).png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\image-removebg-preview (62).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YbyyNz/SWnDfP7Jqp4mQj2aco2YzuvD+qogyF4+JsNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YbyyNz/SWnDfP7Jqp4mQj2aco2YzuvD+qogyF4+JsNQ="
+        }
+      ]
+    },
+    {
       "Route": "images/iphone-13-den-1.png",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-den-1.png",
       "Selectors": [],
@@ -23237,7 +24882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:51:54 GMT"
+          "Value": "Tue, 08 Apr 2025 13:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23282,7 +24927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 05:51:54 GMT"
+          "Value": "Tue, 08 Apr 2025 13:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23319,7 +24964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:20:47 GMT"
+          "Value": "Tue, 08 Apr 2025 13:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23364,7 +25009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:20:47 GMT"
+          "Value": "Tue, 08 Apr 2025 13:01:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25019,6 +26664,88 @@
       ]
     },
     {
+      "Route": "images/opLungiPhone.jswmyku85f.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\opLungiPhone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2GDqI7KscsKAkcRT/zQo7fK284uaZnNyXHsZ81NLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jswmyku85f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/opLungiPhone.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2GDqI7KscsKAkcRT/zQo7fK284uaZnNyXHsZ81NLOM="
+        }
+      ]
+    },
+    {
+      "Route": "images/opLungiPhone.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\opLungiPhone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2GDqI7KscsKAkcRT/zQo7fK284uaZnNyXHsZ81NLOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2GDqI7KscsKAkcRT/zQo7fK284uaZnNyXHsZ81NLOM="
+        }
+      ]
+    },
+    {
       "Route": "images/oppo-reno13f-atus-purple.png",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\oppo-reno13f-atus-purple.png",
       "Selectors": [],
@@ -26167,6 +27894,580 @@
       ]
     },
     {
+      "Route": "images/Redmi Bud6.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Redmi Bud6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWeEVpzrNm4uFJm+mEGnjlpan8FqbOKmIaBztEekEmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWeEVpzrNm4uFJm+mEGnjlpan8FqbOKmIaBztEekEmg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Redmi Bud6.tu4bqczde3.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Redmi Bud6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VWeEVpzrNm4uFJm+mEGnjlpan8FqbOKmIaBztEekEmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tu4bqczde3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Redmi Bud6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VWeEVpzrNm4uFJm+mEGnjlpan8FqbOKmIaBztEekEmg="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-14c_Xanh duong.8c4lpzlz3q.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OD4uEhAGbI9sfILmOFtWUZu6pM5dCety8cHhrKi9WRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8c4lpzlz3q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-14c_Xanh duong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OD4uEhAGbI9sfILmOFtWUZu6pM5dCety8cHhrKi9WRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-14c_Xanh duong.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OD4uEhAGbI9sfILmOFtWUZu6pM5dCety8cHhrKi9WRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OD4uEhAGbI9sfILmOFtWUZu6pM5dCety8cHhrKi9WRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-14c_Xanh la.32it0wcywr.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8COLgVbnq8ogEQHh1VWWbIcFQ3QfTzmZ8MKvugre6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32it0wcywr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-14c_Xanh la.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8COLgVbnq8ogEQHh1VWWbIcFQ3QfTzmZ8MKvugre6A="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-14c_Xanh la.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-14c_Xanh la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q8COLgVbnq8ogEQHh1VWWbIcFQ3QfTzmZ8MKvugre6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q8COLgVbnq8ogEQHh1VWWbIcFQ3QfTzmZ8MKvugre6A="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-5-pro-black-1.j24jxmbuci.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-black-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVtVYyTotw2AC9sePTjYBpBKK8mAv5gC2+dhGmWRPT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:45:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j24jxmbuci"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-buds-5-pro-black-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVtVYyTotw2AC9sePTjYBpBKK8mAv5gC2+dhGmWRPT8="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-5-pro-black-1.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-black-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVtVYyTotw2AC9sePTjYBpBKK8mAv5gC2+dhGmWRPT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:45:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVtVYyTotw2AC9sePTjYBpBKK8mAv5gC2+dhGmWRPT8="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-5-pro-white-1.1hru5ep2nu.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-white-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+xgSHtNjYPBs/dPbE9Txn82Y0+nUf3lynmIHawk0x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:45:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hru5ep2nu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-buds-5-pro-white-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+xgSHtNjYPBs/dPbE9Txn82Y0+nUf3lynmIHawk0x4="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-5-pro-white-1.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-5-pro-white-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a+xgSHtNjYPBs/dPbE9Txn82Y0+nUf3lynmIHawk0x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:45:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a+xgSHtNjYPBs/dPbE9Txn82Y0+nUf3lynmIHawk0x4="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-6-o77-black-caseopen-frontleft.dpy8s7lu3f.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7aaZIJ3rrba0FG+1GnAHRPfs8skKghBSOOVcWfk+mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dpy8s7lu3f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-buds-6-o77-black-caseopen-frontleft.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7aaZIJ3rrba0FG+1GnAHRPfs8skKghBSOOVcWfk+mI="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-6-o77-black-caseopen-frontleft.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-black-caseopen-frontleft.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7aaZIJ3rrba0FG+1GnAHRPfs8skKghBSOOVcWfk+mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7aaZIJ3rrba0FG+1GnAHRPfs8skKghBSOOVcWfk+mI="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-6-o77-white-case-front.mklqq5eig3.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-white-case-front.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiI+vwHOVNnEYqECehoauELQEqBMWV9Q5G0kJ0uRO0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mklqq5eig3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/redmi-buds-6-o77-white-case-front.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiI+vwHOVNnEYqECehoauELQEqBMWV9Q5G0kJ0uRO0Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/redmi-buds-6-o77-white-case-front.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\redmi-buds-6-o77-white-case-front.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiI+vwHOVNnEYqECehoauELQEqBMWV9Q5G0kJ0uRO0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:39:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiI+vwHOVNnEYqECehoauELQEqBMWV9Q5G0kJ0uRO0Q="
+        }
+      ]
+    },
+    {
       "Route": "images/samsung-logo.3lsvapfh0q.png",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\samsung-logo.png",
       "Selectors": [],
@@ -26741,6 +29042,170 @@
       ]
     },
     {
+      "Route": "images/xiaomi-15-den.f93q4226gi.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-den.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QCmwdfnYj64oN6v7QYpOs64Esgm2mXWrn+s299DH+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f93q4226gi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-15-den.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QCmwdfnYj64oN6v7QYpOs64Esgm2mXWrn+s299DH+4="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-15-den.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-den.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QCmwdfnYj64oN6v7QYpOs64Esgm2mXWrn+s299DH+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QCmwdfnYj64oN6v7QYpOs64Esgm2mXWrn+s299DH+4="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-15-trang.pluubfd0qz.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-trang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bU2J4zBLUDga+ZyjMY96bT3dnXamBu4dc5qdkiW+l/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pluubfd0qz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-15-trang.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bU2J4zBLUDga+ZyjMY96bT3dnXamBu4dc5qdkiW+l/Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-15-trang.png",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-15-trang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bU2J4zBLUDga+ZyjMY96bT3dnXamBu4dc5qdkiW+l/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bU2J4zBLUDga+ZyjMY96bT3dnXamBu4dc5qdkiW+l/Q="
+        }
+      ]
+    },
+    {
       "Route": "images/xiaomi-logo.png",
       "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-logo.png",
       "Selectors": [],
@@ -26819,6 +29284,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-BQBsYMq0c8fqQgHtZzzmUm1fSphgk3QHvdx/zJ6niUQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Den.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JmpgvpoJvjJN4crLiqFcNoFxdZL+4neT4koLumBz2F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JmpgvpoJvjJN4crLiqFcNoFxdZL+4neT4koLumBz2F0="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Den.y51l5ntfa2.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JmpgvpoJvjJN4crLiqFcNoFxdZL+4neT4koLumBz2F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y51l5ntfa2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-13_Den.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JmpgvpoJvjJN4crLiqFcNoFxdZL+4neT4koLumBz2F0="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Hong.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Hong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mch63joJq4M0GhsxOLVNDncwjGx/NJl6uooKM7ZxZ/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mch63joJq4M0GhsxOLVNDncwjGx/NJl6uooKM7ZxZ/g="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Hong.lnq9ha4y19.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Hong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mch63joJq4M0GhsxOLVNDncwjGx/NJl6uooKM7ZxZ/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lnq9ha4y19"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-13_Hong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mch63joJq4M0GhsxOLVNDncwjGx/NJl6uooKM7ZxZ/g="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Vang.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Vang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nArjeoqO98SjRqRFIMHG/cU/kF4nGDgPH2jmxYVO8Mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nArjeoqO98SjRqRFIMHG/cU/kF4nGDgPH2jmxYVO8Mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Vang.su578dgyza.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Vang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nArjeoqO98SjRqRFIMHG/cU/kF4nGDgPH2jmxYVO8Mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "su578dgyza"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-13_Vang.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nArjeoqO98SjRqRFIMHG/cU/kF4nGDgPH2jmxYVO8Mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Xanh duong.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qoqq3ckKShA4YT3sZxqPVWvWVjVns8WKEV50ltc+k1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qoqq3ckKShA4YT3sZxqPVWvWVjVns8WKEV50ltc+k1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-13_Xanh duong.mrqfhxgqxu.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-13_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qoqq3ckKShA4YT3sZxqPVWvWVjVns8WKEV50ltc+k1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mrqfhxgqxu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-13_Xanh duong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qoqq3ckKShA4YT3sZxqPVWvWVjVns8WKEV50ltc+k1E="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-14c_Den.4it58oppvy.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-14c_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZKOb7VCHFDLXNHsYZMy0ErCtiUfY03MqeC5SOC8FCOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4it58oppvy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-14c_Den.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZKOb7VCHFDLXNHsYZMy0ErCtiUfY03MqeC5SOC8FCOw="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-14c_Den.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-14c_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZKOb7VCHFDLXNHsYZMy0ErCtiUfY03MqeC5SOC8FCOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZKOb7VCHFDLXNHsYZMy0ErCtiUfY03MqeC5SOC8FCOw="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Den.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AVIV1SMZwnsgX/Q9HDnhajpJmfvA9QoeGCmFC7639ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AVIV1SMZwnsgX/Q9HDnhajpJmfvA9QoeGCmFC7639ac="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Den.x49rfbb3ck.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Den.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AVIV1SMZwnsgX/Q9HDnhajpJmfvA9QoeGCmFC7639ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49rfbb3ck"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-a3_Den.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AVIV1SMZwnsgX/Q9HDnhajpJmfvA9QoeGCmFC7639ac="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Xanh duong.foofk5z1v1.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2LxTA9Bc1kIswDuLXkBTidyTELmv/+1am6cXV6M86E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "foofk5z1v1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-a3_Xanh duong.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2LxTA9Bc1kIswDuLXkBTidyTELmv/+1am6cXV6M86E="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Xanh duong.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh duong.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2LxTA9Bc1kIswDuLXkBTidyTELmv/+1am6cXV6M86E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2LxTA9Bc1kIswDuLXkBTidyTELmv/+1am6cXV6M86E="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Xanh la.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbN3Pb9536fXqOnhisUc556MWlGBwKRjE2J9GqZ1WuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbN3Pb9536fXqOnhisUc556MWlGBwKRjE2J9GqZ1WuE="
+        }
+      ]
+    },
+    {
+      "Route": "images/xiaomi-redmi-a3_Xanh la.nagzjz3ezf.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-redmi-a3_Xanh la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbN3Pb9536fXqOnhisUc556MWlGBwKRjE2J9GqZ1WuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:21:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nagzjz3ezf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xiaomi-redmi-a3_Xanh la.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbN3Pb9536fXqOnhisUc556MWlGBwKRjE2J9GqZ1WuE="
         }
       ]
     },

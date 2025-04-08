@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DoAnLTW_Nhom4.Models.Review>
+
+@{
+    ViewData["Title"] = "Quản lý đánh giá";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="review-container">
+    <h2 class="review-title">Quản lý đánh giá</h2>
+
+    <table class="review-table">
+        <thead>
+            <tr>
+                <th>Người dùng</th>
+                <th>Sản phẩm</th>
+                <th>Đánh giá</th>
+                <th>Bình luận</th>
+                <th>Duyệt</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var review in Model)
+            {
+                <tr>
+                    <td>@review.UserName</td>
+                    <td>@review.Product?.Name</td>
+                    <td>@review.Rating</td>
+                    <td>@review.Comment</td>
+                    <td>@(review.IsApproved ? "Đã duyệt" : "Chưa duyệt")</td>
+                    <td>
+                        <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@review.Id">Chi tiết</a>
+                        @if (!review.IsApproved)
+                        {
+                            <form asp-action="Approve" method="post" asp-route-id="@review.Id" style="display:inline;">
+                                <button type="submit" class="btn btn-success btn-sm">Duyệt</button>
+                            </form>
+                        }
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <form asp-action="Delete" method="post" asp-route-id="@review.Id" style="display:inline;">
+                                <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                            </form>
+                        }
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+

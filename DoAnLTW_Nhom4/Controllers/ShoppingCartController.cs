@@ -6,8 +6,6 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DoAnLTW_Nhom4.Data;
-using System.Security.Claims;
-using Microsoft.Extensions.Logging;
 
 namespace DoAnLTW_Nhom4.Controllers
 {
@@ -19,7 +17,6 @@ namespace DoAnLTW_Nhom4.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly ILogger<ShoppingCartController> _logger;
         private readonly IEmailSender _emailSender;
-
         public ShoppingCartController(
             IProductRepository productRepository, 
             ApplicationDbContext context, 
@@ -257,7 +254,7 @@ namespace DoAnLTW_Nhom4.Controllers
         }
         [HttpPost]
         [Authorize(Roles = $"{SD.Role_Customer}")]
-        public async Task<IActionResult> Checkout(Order order, List<int> selectedProductIds)
+        public async Task<IActionResult> Checkout(Order order, List<int> selectedProductIds,string PaymentMethod)
         {
             var cart = HttpContext.Session.GetObjectFromJson<ShoppingCart>("Cart");
             var pendingOrder = HttpContext.Session.GetObjectFromJson<Order>("PendingOrder");
@@ -353,7 +350,7 @@ namespace DoAnLTW_Nhom4.Controllers
 
             return RedirectToAction("OrderCompleted", new { id = order.Id });
         }
-
+        
 
         [HttpPost]
         [Authorize(Roles = $"{SD.Role_Customer}")]
@@ -481,5 +478,6 @@ namespace DoAnLTW_Nhom4.Controllers
 
             return View(orders);
         }
+        
     }
 }

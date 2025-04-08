@@ -74,6 +74,7 @@ C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\css\button.css
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\favicon.ico
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\css\Review-admin.css
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
@@ -90,6 +91,7 @@ wwwroot\css\product.css
 wwwroot\css\productAdd.css
 wwwroot\css\productDetail.css
 wwwroot\css\productView.css
+wwwroot\css\Review-admin.css
 wwwroot\css\RoleManager.css
 wwwroot\css\site.css
 wwwroot\css\style.css
@@ -98,8 +100,15 @@ wwwroot\images\about-us.jpg
 wwwroot\images\banner_introduce.jpg
 wwwroot\images\banner_introduce2.jpg
 wwwroot\images\banner1.jpg
+wwwroot\images\banner10.jpg
 wwwroot\images\banner2.jpg
 wwwroot\images\banner3.jpg
+wwwroot\images\banner5.jpg
+wwwroot\images\banner6.jpg
+wwwroot\images\banner7.png
+wwwroot\images\banner8.png
+wwwroot\images\banner9.png
+wwwroot\images\earfun-air-mini-2.png
 wwwroot\images\galaxy-s25-blue-1.png
 wwwroot\images\galaxy-s25-mint-1.png
 wwwroot\images\galaxy-s25-navy-2.png
@@ -108,6 +117,8 @@ wwwroot\images\galaxy-s25-ultra-titan-black-1.png
 wwwroot\images\galaxy-s25-ultra-titan-gray.png
 wwwroot\images\galaxy-s25-ultra-titan-silver-blue.png
 wwwroot\images\galaxy-s25-ultra-titan-white-silver.png
+wwwroot\images\image-removebg-preview (60).png
+wwwroot\images\image-removebg-preview (62).png
 wwwroot\images\iphone-13-den-1.png
 wwwroot\images\iphone-13-hong-1.png
 wwwroot\images\iphone-13-trang-1.png
@@ -135,6 +146,7 @@ wwwroot\images\logo-iphone.png
 wwwroot\images\logo-oppo.jpg
 wwwroot\images\logo-phone.png
 wwwroot\images\logo-vivo.png
+wwwroot\images\opLungiPhone.png
 wwwroot\images\oppo-reno13f-atus-purple.png
 wwwroot\images\oppo-reno13f-rhyder-grey.png
 wwwroot\images\products\07c48a9a-8d9c-49e0-9625-4fe35bee855f_iphone-13-trang-1.png
@@ -149,6 +161,13 @@ wwwroot\images\products\f66adc99-18e3-4c3d-a984-c1a31bf8bfca_iphone-16-pro-tu-nh
 wwwroot\images\promo1.png
 wwwroot\images\promo2.png
 wwwroot\images\realme.jpg
+wwwroot\images\Redmi Bud6.png
+wwwroot\images\redmi-14c_Xanh duong.jpg
+wwwroot\images\redmi-14c_Xanh la.jpg
+wwwroot\images\redmi-buds-5-pro-black-1.png
+wwwroot\images\redmi-buds-5-pro-white-1.png
+wwwroot\images\redmi-buds-6-o77-black-caseopen-frontleft.png
+wwwroot\images\redmi-buds-6-o77-white-case-front.png
 wwwroot\images\samsung-logo.png
 wwwroot\images\Xiaomi_logo.png
 wwwroot\images\xiaomi-14-black.png
@@ -156,7 +175,17 @@ wwwroot\images\xiaomi-14-green.png
 wwwroot\images\xiaomi-14-ultra-den.png
 wwwroot\images\xiaomi-14-ultra-trang.png
 wwwroot\images\xiaomi-14-white.png
+wwwroot\images\xiaomi-15-den.png
+wwwroot\images\xiaomi-15-trang.png
 wwwroot\images\xiaomi-logo.png
+wwwroot\images\xiaomi-redmi-13_Den.jpg
+wwwroot\images\xiaomi-redmi-13_Hong.jpg
+wwwroot\images\xiaomi-redmi-13_Vang.jpg
+wwwroot\images\xiaomi-redmi-13_Xanh duong.jpg
+wwwroot\images\xiaomi-redmi-14c_Den.jpg
+wwwroot\images\xiaomi-redmi-a3_Den.jpg
+wwwroot\images\xiaomi-redmi-a3_Xanh duong.jpg
+wwwroot\images\xiaomi-redmi-a3_Xanh la.jpg
 wwwroot\js\newFile.js
 wwwroot\js\shopping-cart.js
 wwwroot\js\site.js

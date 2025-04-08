@@ -25,12 +25,13 @@ namespace DoAnLTW_Nhom4.Areas.Admin.Controllers
             var categories = await _categoryRepository.GetAllAsync();
             return View(categories);
         }
+        [Authorize(Roles = $"{SD.Role_Admin}")]
         public IActionResult Add()
         {
             return View();
         }
         [HttpPost]
-        [Authorize(Roles = $"{SD.Role_Admin},{SD.Role_Employee}")]
+        [Authorize(Roles = $"{SD.Role_Admin}")]
         public async Task<IActionResult> Add(Category category)
         {
             if (ModelState.IsValid)

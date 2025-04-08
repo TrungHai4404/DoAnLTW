@@ -1693,7 +1693,6 @@ C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compr
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\n70u1m4gju-gmibbwig4n.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\5tbheq6e6f-m9e0ajynbx.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\wptvxoq4gm-yncfa1p4o7.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\0nxrve1zo1-u7ep886jru.gz
@@ -1708,7 +1707,6 @@ C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compr
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\7nwb2g1nhv-0gksr8ng9f.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\ko2z219t4p-5ipweew5fc.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\nk9e02amqf-ijqmz7vwpj.gz
-C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\h5ztrioo5q-jfyn59o3pg.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\yjxzw720ha-61n19gt1b8.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\33jp1ykw6t-5ipweew5fc.gz
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\uz96jetmt4-x3s0ttzo5f.gz
@@ -1793,3 +1791,9 @@ C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\ref\D
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\MailKit.dll
 C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\MimeKit.dll
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\PayPal.dll
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\PayPalCheckoutSdk.dll
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\bin\Debug\net9.0\PayPalHttp-Dotnet.dll
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\ynug365q98-xrg3yztsjc.gz
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\n70u1m4gju-bqtn5d9m0f.gz
+C:\Users\LENOVO\OneDrive\Máy tính\DoAnLTW\DoAnLTW_Nhom4\obj\Debug\net9.0\compressed\h5ztrioo5q-bqksjq4fkw.gz

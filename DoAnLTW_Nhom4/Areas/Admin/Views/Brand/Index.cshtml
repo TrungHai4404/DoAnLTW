@@ -4,12 +4,15 @@
     ViewData["Title"] = "Quản lý thương hiệu";
 }
 <link rel="stylesheet" href="~/css/categoryView.css" asp-append-version="true" />
-<link rel="stylesheet" href="~/css/button.css asp-append-version="true" />
+<link rel="stylesheet" href="~/css/button.css" asp-append-version="true" />
 <div class="admin-container">
     <h2>Thương hiệu</h2>
-    <div class="button-add">
-        <a asp-action="Add" class="btn add-brand-btn">Thêm thương hiệu mới</a>
-    </div>
+    @if (User.IsInRole("Employee"))
+    {
+        <div class="button-add">
+            <a asp-action="Add" class="btn add-brand-btn">Thêm thương hiệu mới</a>
+        </div>
+    }
     <table class="admin-table">
         <thead>
             <tr>
