@@ -60,10 +60,10 @@
                                                     <span class="item-price" data-price="@item.Price">@item.Price?.ToString("N0")đ</span>
                                                 </td>
                                                 <td>
-                                                    <div class="quantity-container" style="max-width: 120px;text-align:center;">
+                                                    <div class="quantity-container">
                                                         <button type="button" class="quantity-btn decrease" data-product-id="@item.ProductId">-</button>
                                                         <input type="text" class="product-quantity" data-product-id="@item.ProductId"
-                                                               value="@item.Quantity" min="1" max="@item.StockQuantity" data-price="@item.Price" readonly style="max-width:30px; text-align:center;"/>
+                                                               value="@item.Quantity" min="1" max="@item.StockQuantity" data-price="@item.Price" readonly/>
                                                         <button type="button" class="quantity-btn increase" data-product-id="@item.ProductId">+</button>
                                                     </div>
                                                 </td>

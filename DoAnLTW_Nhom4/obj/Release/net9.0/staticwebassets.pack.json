@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\DoAnLTW_Nhom4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnLTW_Nhom4.rpda1j3dfo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Login_Register.css",
+      "PackagePath": "staticwebassets\\css\\Login_Register.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\Order.css",
+      "PackagePath": "staticwebassets\\css\\Order.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\RoleManager.css",
+      "PackagePath": "staticwebassets\\css\\RoleManager.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\admin\\coupon.css",
+      "PackagePath": "staticwebassets\\css\\admin\\coupon.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\button.css",
+      "PackagePath": "staticwebassets\\css\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\categoryView.css",
+      "PackagePath": "staticwebassets\\css\\categoryView.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\loginPartial.css",
+      "PackagePath": "staticwebassets\\css\\loginPartial.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\mangageNav.css",
+      "PackagePath": "staticwebassets\\css\\mangageNav.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\productAdd.css",
+      "PackagePath": "staticwebassets\\css\\productAdd.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\productDetail.css",
+      "PackagePath": "staticwebassets\\css\\productDetail.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\productView.css",
+      "PackagePath": "staticwebassets\\css\\productView.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\Xiaomi_logo.png",
+      "PackagePath": "staticwebassets\\images\\Xiaomi_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner_introduce.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_introduce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\banner_introduce2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_introduce2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-blue-1.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-blue-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-mint-1.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-mint-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-navy-2.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-navy-2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-silver-1.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-silver-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-ultra-titan-black-1.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-ultra-titan-black-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-ultra-titan-gray.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-ultra-titan-gray.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-ultra-titan-silver-blue.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-ultra-titan-silver-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\galaxy-s25-ultra-titan-white-silver.png",
+      "PackagePath": "staticwebassets\\images\\galaxy-s25-ultra-titan-white-silver.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-den-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-13-den-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-hong-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-13-hong-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-13-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-13-xanh-duong-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-13-xanh-duong-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-den-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-den-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-hong-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-hong-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-trang-1 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-trang-1 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-xanh-luu-ly-1 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-xanh-luu-ly-1 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-xanh-luu-ly-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-xanh-luu-ly-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-plus-xanh-mong-ket-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-plus-xanh-mong-ket-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-den-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-den-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-max-den-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-max-den-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-max-sa-mac-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-max-sa-mac-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-max-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-max-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-max-tu-nhien-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-max-tu-nhien-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-sa-mac-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-sa-mac-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-pro-tu-nhien-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-pro-tu-nhien-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16-xanh-luu-ly-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16-xanh-luu-ly-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16e-den-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16e-den-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\iphone-16e-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\iphone-16e-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\logo-iphone.png",
+      "PackagePath": "staticwebassets\\images\\logo-iphone.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\logo-oppo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo-oppo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\logo-phone.png",
+      "PackagePath": "staticwebassets\\images\\logo-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\logo-vivo.png",
+      "PackagePath": "staticwebassets\\images\\logo-vivo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\oppo-reno13f-atus-purple.png",
+      "PackagePath": "staticwebassets\\images\\oppo-reno13f-atus-purple.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\oppo-reno13f-rhyder-grey.png",
+      "PackagePath": "staticwebassets\\images\\oppo-reno13f-rhyder-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\07c48a9a-8d9c-49e0-9625-4fe35bee855f_iphone-13-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\07c48a9a-8d9c-49e0-9625-4fe35bee855f_iphone-13-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\0e0f5b47-a12a-4d80-9f50-7a3f1c034b4b_iphone-16-plus-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\0e0f5b47-a12a-4d80-9f50-7a3f1c034b4b_iphone-16-plus-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\212d41c1-981d-4617-b29e-b05be95b6d5f_iphone-13-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\212d41c1-981d-4617-b29e-b05be95b6d5f_iphone-13-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\2f55af0f-eafe-408c-acdb-44bcfeaea25e_iphone-16-plus-xanh-luu-ly-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\2f55af0f-eafe-408c-acdb-44bcfeaea25e_iphone-16-plus-xanh-luu-ly-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\307bd742-0bb3-46bb-a6ef-6009967a1eb1_iphone-16-plus-xanh-mong-ket-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\307bd742-0bb3-46bb-a6ef-6009967a1eb1_iphone-16-plus-xanh-mong-ket-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\606479d2-5ee0-4357-bc41-94139979e7b0_iphone-16-plus-xanh-luu-ly-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\606479d2-5ee0-4357-bc41-94139979e7b0_iphone-16-plus-xanh-luu-ly-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\7ecbc9d1-bf3e-4c55-81e8-a012d1a34905_iphone-13-xanh-duong-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\7ecbc9d1-bf3e-4c55-81e8-a012d1a34905_iphone-13-xanh-duong-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\d3f4afd7-9435-4362-aa11-ad1c210dfc31_iphone-16-trang-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\d3f4afd7-9435-4362-aa11-ad1c210dfc31_iphone-16-trang-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\products\\f66adc99-18e3-4c3d-a984-c1a31bf8bfca_iphone-16-pro-tu-nhien-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\f66adc99-18e3-4c3d-a984-c1a31bf8bfca_iphone-16-pro-tu-nhien-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\promo1.png",
+      "PackagePath": "staticwebassets\\images\\promo1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\promo2.png",
+      "PackagePath": "staticwebassets\\images\\promo2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\realme.jpg",
+      "PackagePath": "staticwebassets\\images\\realme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\samsung-logo.png",
+      "PackagePath": "staticwebassets\\images\\samsung-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-14-black.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-14-black.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-14-green.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-14-green.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-14-ultra-den.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-14-ultra-den.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-14-ultra-trang.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-14-ultra-trang.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-14-white.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-14-white.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\images\\xiaomi-logo.png",
+      "PackagePath": "staticwebassets\\images\\xiaomi-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\js\\shopping-cart.js",
+      "PackagePath": "staticwebassets\\js\\shopping-cart.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Máy tính\\DoAnLTW\\DoAnLTW_Nhom4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.DoAnLTW_Nhom4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.DoAnLTW_Nhom4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.DoAnLTW_Nhom4.props",
+      "PackagePath": "build\\DoAnLTW_Nhom4.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnLTW_Nhom4.props",
+      "PackagePath": "buildMultiTargeting\\DoAnLTW_Nhom4.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.DoAnLTW_Nhom4.props",
+      "PackagePath": "buildTransitive\\DoAnLTW_Nhom4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

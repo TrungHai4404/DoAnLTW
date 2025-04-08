@@ -43,13 +43,6 @@
                     <input type="text" class="form-control" id="searchQuery" placeholder="Hôm nay bạn muốn tìm kiếm gì?">
                     <button type="submit"><i class="fas fa-search"></i></button>
                 </form>
-                <div class="search-suggest">
-                    <strong>Từ khóa xu hướng:</strong>
-                    <a href="/Product/Display/14">Samsung S25 Ultra</a>
-                    <a href="#">Redmi Note 14</a>
-                    <a href="#">Tecno Pova 6 Neo</a>
-                    <a href="#">iPhone 16</a>
-                </div>
             </div>
 
             <div class="user-options">
@@ -69,7 +62,9 @@
         <ul class="nav-links">
             <li><a asp-route-area="" asp-controller="Home" asp-action="Index"><i class="fas fa-home"></i> Trang chủ</a></li>
             <li><a asp-controller="Product" asp-action="Index" asp-route-area=""><i class="fas fa-mobile-alt"></i> Sản phẩm</a></li>
+            <li><a asp-controller="Category" asp-action="Index" asp-route-area=""><i class="fas fa-list"></i>Danh Mục Sản Phẩm</a></li>
             <li><a asp-controller="Order" asp-action="Index" asp-route-area=""><i class="fas fa-list-alt"></i> Quản lí đơn hàng</a></li>
+            <li><a asp-controller="Home" asp-action="Privacy" asp-route-area=""><i class="fas fa-address-book"></i> Chính sách bảo mật</a></li>
         </ul>
         <div id="menu-overlay"></div>
     </nav>
@@ -83,11 +78,16 @@
     <footer class="footer">
         <div class="footer-column">
             <h4>Liên hệ</h4>
-            <p><i class="fas fa-phone"></i> Hotline: 0123 456 789</p>
+            <p><i class="fas fa-phone"></i> Hotline: 0892 321 572</p>
+            <p><i class="fas fa-phone"></i> Hotline: 0978 408 325</p>
+            <p><i class="fas fa-mail"></i> Email: support@phones.com</p>
         </div>
         <div class="footer-column">
             <h4>Địa chỉ</h4>
-            <p><i class="fas fa-map-marker-alt"></i> 123 Đường ABC, TP. HCM</p>
+            <p><i class="fas fa-map-marker-alt"></i> 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, TP.HCM</p>
+            <p><i class="fas fa-map-marker-alt"></i> Phân khu đào tạo E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM</p>
+            <p><i class="fas fa-map-marker-alt"></i> Viện Công nghệ Cao Hutech, khu Công Nghệ Cao, TP. Thủ Đức, TP.HCM.</p>
+            <p><i class="fas fa-map-marker-alt"></i> 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, TP.HCM</p>
         </div>
         <div class="footer-column">
             <h4>Thanh toán</h4>

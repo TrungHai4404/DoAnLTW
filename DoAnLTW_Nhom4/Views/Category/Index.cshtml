@@ -1,5 +1,74 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Product>
 @{
+    ViewData["Title"] = "Danh mục sản phẩm";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+    var categories = ViewBag.Categories as List<Category>;
 }
+
+<div class="category-nav-bar">
+    <a href="#" class="category-link active" data-id="">Tất cả</a>
+    @foreach (var category in categories)
+    {
+        <a href="#" class="category-link" data-id="@category.Id">
+            @category.Name
+        </a>
+    }
+</div>
+<!-- Kết quả tìm kiếm -->
+<h2 id="search-title" style="display: none;">Kết quả tìm kiếm</h2>
+<section class="product-filter" id="product-container">
+</section>
+<div class="product-grid" id="product-list-container">
+    @await Html.PartialAsync("_ProductListPartial", Model)
+    <p>Không có sản phẩm nào trong danh mục này.</p>
+    
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.category-link').click(function (e) {
+                e.preventDefault();
+                $('.category-link').removeClass('active');
+                $(this).addClass('active');
+
+                const categoryId = $(this).data('id');
+
+                $.get('@Url.Action("FilterByCategory", "Category")', { categoryId: categoryId }, function (res) {
+                    $('#product-list-container').html(res);
+                });
+            });
+        });
+    </script>
+
+}
+
+
+<style>
+    /* === Thanh danh mục ngang === */
+    .category-nav-bar {
+        display: flex;
+        gap: 12px;
+        padding: 15px 20px;
+        background-color: #f5f5f5;
+        border-bottom: 2px solid #ddd;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+    }
+
+        .category-nav-bar a {
+            text-decoration: none;
+            color: #333;
+            padding: 8px 18px;
+            border-radius: 20px;
+            background-color: #e0e0e0;
+            transition: background-color 0.3s;
+        }
+
+            .category-nav-bar a.active,
+            .category-nav-bar a:hover {
+                background-color: #3498db;
+                color: #fff;
+            }
+</style>

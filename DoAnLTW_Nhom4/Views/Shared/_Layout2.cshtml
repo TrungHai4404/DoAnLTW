@@ -1,0 +1,143 @@
+﻿@using DoAnLTW_Nhom4.Extensions
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DoAnLTW_Nhom4</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/button.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Cart.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    @Html.AntiForgeryToken()
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <!-- Thanh thông báo -->
+        <section class="notification-bar">
+            <div class="notification-slider">
+                <div class="notification-slides">
+                    <div class="notification-slide">SẢN PHẨM CHÍNH HÃNG</div>
+                    <div class="notification-slide">CAM KẾT LỖI ĐỔI LIỀN</div>
+                    <div class="notification-slide">HOTLINE 1900.2091</div>
+                    <div class="notification-slide">MIỄN PHÍ VẬN CHUYỂN</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Thanh logo, tìm kiếm và tài khoản -->
+        <section class="header-main">
+            <div class="logo">
+                <a asp-controller="Home" asp-action="Index" asp-route-area=""><img src="~/images/logo-phone.png" alt="Logo"></a>
+            </div>
+
+            <div class="search">
+                <form>
+                    <input type="text" class="form-control" id="searchQuery" placeholder="Hôm nay bạn muốn tìm kiếm gì?">
+                </form>
+                
+            </div>
+
+            <div class="user-options">
+                <a href="/ShoppingCart/Index" class="cart-icon">
+                    🛒 <span class="cart-count">@((Context.Session.GetObjectFromJson<ShoppingCart>("Cart")?.Items.Count ?? 0))</span>
+                </a>
+                <partial name="_LoginPartial" />
+            </div>
+        </section>
+    </header>
+    <!-- Menu -->
+    <nav class="navbar">
+        <!-- Nút Hamburger -->
+        <div class="hamburger" id="hamburger">
+            <i class="fas fa-bars"></i>
+        </div>
+        <ul class="nav-links">
+            <li><a asp-route-area="" asp-controller="Home" asp-action="Index"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li><a asp-controller="Product" asp-action="Index" asp-route-area=""><i class="fas fa-mobile-alt"></i> Sản phẩm</a></li>
+            <li><a asp-controller="Category" asp-action="Index" asp-route-area=""><i class="fas fa-list"></i>Danh Mục Sản Phẩm</a></li>
+            <li><a asp-controller="Order" asp-action="Index" asp-route-area=""><i class="fas fa-list-alt"></i> Quản lí đơn hàng</a></li>
+            <li><a asp-controller="Home" asp-action="Privacy" asp-route-area=""><i class="fas fa-address-book"></i> Chính sách bảo mật</a></li>
+        </ul>
+        <div id="menu-overlay"></div>
+    </nav>
+
+    <!-- Main Layout -->
+    <div class="container main-content">
+        <div class="main-container">
+            <!-- Sidebar -->
+            @await Component.InvokeAsync("Sidebar")
+
+            <!-- Main Content -->
+            <main class="content">
+                @RenderBody()
+            </main>
+        </div>
+        
+        </section>
+        <!-- About Us Section -->
+        <section class="about-us">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>Về chúng tôi</h2>
+                    <p>Chúng tôi là đơn vị cung cấp các sản phẩm chất lượng cao với giá cả hợp lý. Với đội ngũ nhân viên chuyên nghiệp và tận tâm, chúng tôi cam kết mang đến cho khách hàng những trải nghiệm mua sắm tốt nhất.</p>
+                    <div class="features">
+                        <div class="feature">
+                            <i class="fas fa-truck"></i>
+                            <h3>Giao hàng nhanh chóng</h3>
+                            <p>Giao hàng toàn quốc trong 24-48h</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-shield-alt"></i>
+                            <h3>Bảo hành chính hãng</h3>
+                            <p>Chính sách bảo hành 12 tháng</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-headset"></i>
+                            <h3>Hỗ trợ 24/7</h3>
+                            <p>Đội ngũ tư vấn luôn sẵn sàng</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-image">
+                    <img src="/images/about-us.jpg" alt="Về chúng tôi">
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-column">
+            <h4>Liên hệ</h4>
+            <p><i class="fas fa-phone"></i> Hotline: 0892 321 572</p>
+            <p><i class="fas fa-phone"></i> Hotline: 0978 408 325</p>
+            <p><i class="fas fa-mail"></i> Email: support@phones.com</p>
+        </div>
+        <div class="footer-column">
+            <h4>Địa chỉ</h4>
+            <p><i class="fas fa-map-marker-alt"></i> 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, TP.HCM</p>
+            <p><i class="fas fa-map-marker-alt"></i> Phân khu đào tạo E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM</p>
+            <p><i class="fas fa-map-marker-alt"></i> Viện Công nghệ Cao Hutech, khu Công Nghệ Cao, TP. Thủ Đức, TP.HCM.</p>
+            <p><i class="fas fa-map-marker-alt"></i> 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, TP.HCM</p>
+        </div>
+        <div class="footer-column">
+            <h4>Thanh toán</h4>
+            <p><i class="fas fa-credit-card"></i> Visa, Mastercard, MoMo...</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/shopping-cart.js" asp-append-version="true"></script>
+    
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

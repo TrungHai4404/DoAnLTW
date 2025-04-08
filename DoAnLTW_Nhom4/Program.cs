@@ -4,9 +4,6 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using DoAnLTW_Nhom4.Data;
 using DoAnLTW_Nhom4.Models;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authentication.Google;
-using Microsoft.AspNetCore.Authentication.Facebook;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,11 +14,12 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+builder.Services.AddTransient<IEmailSender, EmailSender>();
+
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => { options.SignIn.RequireConfirmedAccount = false; })
     .AddDefaultTokenProviders()
     .AddDefaultUI()
     .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -43,8 +41,25 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.LogoutPath = "/Identity/Account/Logout";
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
 });
-// Đăng nhập bằng fb và GG
+// 🔹 Cấu hình CookiePolicy cho OAuth callback
+builder.Services.Configure<CookiePolicyOptions>(options =>
+{
+    // Cho phép cookie gửi kèm trong các yêu cầu cross-site (như OAuth callback)
+    options.MinimumSameSitePolicy = SameSiteMode.Unspecified;
+});
 
+// 🔹 Tinh chỉnh cookie (SameSite=None, HTTPS)
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.Cookie.SameSite = SameSiteMode.None;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+});
+// Đăng nhập bằng fb và GG
+builder.Services.AddAuthentication()
+    .AddGoogle(options => {
+        options.ClientId = "382000743151-saq98iqdj2t5jb0e4q4r3hos340jpf88.apps.googleusercontent.com";
+        options.ClientSecret = "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";
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

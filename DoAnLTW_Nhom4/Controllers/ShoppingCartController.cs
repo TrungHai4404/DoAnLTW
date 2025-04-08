@@ -18,17 +18,20 @@ namespace DoAnLTW_Nhom4.Controllers
         private readonly ApplicationDbContext _context;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly ILogger<ShoppingCartController> _logger;
+        private readonly IEmailSender _emailSender;
 
         public ShoppingCartController(
             IProductRepository productRepository, 
             ApplicationDbContext context, 
             UserManager<ApplicationUser> userManager,
-            ILogger<ShoppingCartController> logger)
+            ILogger<ShoppingCartController> logger,
+            IEmailSender emailSender)
         {
             _productRepository = productRepository;
             _context = context;
             _userManager = userManager;
             _logger = logger;
+            _emailSender = emailSender;
         }
         [HttpPost]
         public async Task<IActionResult> ValidateCoupon(string code, decimal totalAmount)
@@ -305,6 +308,23 @@ namespace DoAnLTW_Nhom4.Controllers
             {
                 _context.Orders.Add(order);
                 await _context.SaveChangesAsync();
+                // ✅ Gửi email xác nhận đơn hàng
+                var subject = $"Xác nhận đơn hàng #{order.Id}";
+                var body = $@"
+                            <h3>Xin chào {user.FullName},</h3>
+                            <p>Cảm ơn bạn đã đặt hàng tại cửa hàng của chúng tôi.</p>
+                            <p><strong>Mã đơn hàng:</strong> {order.Id}</p>
+                            <p><strong>Ngày đặt:</strong> {order.OrderDate:dd/MM/yyyy HH:mm}</p>
+                            <p><strong>Tổng tiền:</strong> {order.TotalPrice:N0}đ</p>
+                            <p><strong>Giảm giá:</strong> {order.DiscountAmount:N0}đ</p>
+                            <p><strong>Thanh toán:</strong> <span style='color: green; font-weight: bold'>{order.FinalAmount:N0}đ</span></p>
+                            <p>Chúng tôi sẽ sớm liên hệ với bạn để xác nhận và giao hàng.</p>
+                            <br/>
+                            <p>Trân trọng,</p>
+                            <p><em>Đội ngũ hỗ trợ</em></p>
+                        ";
+
+                await _emailSender.SendEmailAsync(user.Email, subject, body);
             }
             catch (Exception)
             {
@@ -326,6 +346,7 @@ namespace DoAnLTW_Nhom4.Controllers
             // Xóa sản phẩm đã thanh toán khỏi giỏ hàng
             cart.Items = cart.Items.Where(i => !selectedProductIds.Contains(i.ProductId)).ToList();
             HttpContext.Session.SetObjectAsJson("Cart", cart);
+            
 
             // Xóa đơn hàng tạm thời khỏi Session
             HttpContext.Session.Remove("PendingOrder");

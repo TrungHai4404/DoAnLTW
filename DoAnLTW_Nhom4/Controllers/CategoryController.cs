@@ -1,24 +1,44 @@
-﻿using DoAnLTW_Nhom4.Repositories.Interfaces;
+﻿using DoAnLTW_Nhom4.Data;
+using DoAnLTW_Nhom4.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace DoAnLTW_Nhom4.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepository _categoryRepository;
         private readonly IProductRepository _productRepository;
+        private readonly ICategoryRepository _categoryRepository;
 
-        public CategoryController(ICategoryRepository categoryRepository, IProductRepository productRepository)
+        public CategoryController(IProductRepository productRepository, ICategoryRepository categoryRepository)
         {
-            _categoryRepository = categoryRepository;
             _productRepository = productRepository;
+            _categoryRepository = categoryRepository;
         }
 
-        // Hiển thị danh sách danh mục
         public async Task<IActionResult> Index()
         {
             var categories = await _categoryRepository.GetAllAsync();
-            return View(categories);
+            ViewBag.Categories = categories;
+
+            var products = await _productRepository.GetAllAsync();
+            if (products == null || !products.Any())
+            {
+                // Debugging
+                Console.WriteLine("Không có sản phẩm nào.");
+            }
+            return View(products);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> FilterByCategory(int? categoryId)
+        {
+            var products = categoryId == null
+                ? await _productRepository.GetAllAsync()
+                : await _productRepository.GetByCategoryAsync(categoryId.Value);
+
+            return PartialView("_ProductListPartial", products);
         }
     }
+
 }

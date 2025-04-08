@@ -1,0 +1,42 @@
+﻿@model List<Product>
+
+@if (!Model.Any())
+{
+    <p>Không có sản phẩm nào trong danh mục này.</p>
+}
+else
+{
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <div class="product-image">
+                <img src="@product.ImageUrl" alt="@product.Name">
+                @if (product.Discount > 0)
+                {
+                    <span class="discount-badge">-@product.Discount%</span>
+                }
+            </div>
+            <div class="product-info">
+                <div class="product-category">@product.Category?.Name</div>
+                <h4 class="product-name">@product.Name</h4>
+                <div class="product-price">
+                    @if (product.Discount > 0)
+                    {
+                        <span class="original-price">@product.Price.ToString("N0")đ</span>
+                        <span class="discounted-price">@((product.Price * (1 - product.Discount / 100))?.ToString("N0"))đ</span>
+                    }
+                    else
+                    {
+                        <span class="price">@product.Price.ToString("N0")đ</span>
+                    }
+                </div>
+                <div class="product-actions">
+                    <a asp-controller="Product" asp-action="Display" asp-route-id="@product.Id" class="btn btn-primary btn-sm">Chi tiết</a>
+                    <button class="add-to-cart-btn" data-product-id="@product.Id">
+                        <i class="fas fa-shopping-cart"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    }
+}

@@ -11,7 +11,7 @@
             @foreach (var category in categories)
             {
                 <li>
-                    <a asp-controller="Product" asp-action="Index" asp-route-categoryId="@category.Id">
+                    <a href="#" data-id="@category.Id" class="category-item">
                         <i class="fas fa-folder"></i>
                         <span>@category.Name</span>
                     </a>
@@ -27,7 +27,7 @@
             @foreach (var brand in brands)
             {
                 <li>
-                    <a asp-controller="Product" asp-action="Index" asp-route-brandId="@brand.Id">
+                    <a href="#" data-id="@brand.Id">
                         <div class="brand-image">
                             <img src="@brand.LogoUrl" alt="@brand.Name" onerror="this.src='/images/default-brand.png'">
                         </div>
@@ -78,6 +78,9 @@
 
         <button class="btn btn-primary w-100 mt-3" id="applyFilters">
             <i class="fas fa-filter"></i> Áp dụng bộ lọc
+        </button>
+        <button class="btn btn-secondary w-100 mt-2" id="clearFilters">
+            <i class="fas fa-times"></i> Xóa bộ lọc
         </button>
     </div>
 </div>

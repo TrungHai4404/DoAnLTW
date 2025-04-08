@@ -1,0 +1,169 @@
+﻿/* Bố cục hai cột */
+.manage-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Cột trái - Menu quản lý */
+.manageNav {
+    width: 280px; /* Chiều rộng menu */
+}
+
+/* Cột phải - Nội dung chính */
+.main {
+    flex-grow: 1;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+/*Thiết bị di động*/
+@media (max-width: 768px) {
+    .manage-container {
+        flex-direction: column;
+    }
+
+    .manageNav {
+        width: 100%;
+    }
+}
+
+/* Tạo nền menu */
+.account-menu {
+    list-style: none;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    width: 280px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Kiểu từng mục trong menu */
+.account-menu .nav-item {
+    margin: 10px 0;
+}
+
+/* Kiểu link trong menu */
+.account-menu .nav-link {
+    display: flex;
+    align-items: center;
+    padding: 12px 18px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #333;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hiệu ứng hover */
+.account-menu .nav-link:hover {
+    background: #007bff;
+    color: white;
+    transform: translateX(5px);
+}
+
+/* Mục đang chọn */
+.account-menu .nav-link.active {
+    background: #0056b3;
+    color: white;
+    font-weight: bold;
+}
+
+/* Biểu tượng trong menu */
+.account-menu .nav-link i {
+    margin-right: 12px;
+    font-size: 18px;
+}
+
+/* Hiệu ứng box shadow khi hover */
+.account-menu:hover {
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+
+/*CSS index*/
+
+/* Tạo khung chính giữa màn hình */
+.profile-container {
+    max-width: 450px;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Tiêu đề */
+.profile-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Khung chứa form */
+.profile-card {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+/* Nhóm input */
+.input-group {
+    margin-bottom: 15px;
+}
+
+/* Nhãn input */
+.input-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #555;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Ô nhập dữ liệu */
+.input-field {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Khi click vào ô input */
+.input-field:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+    outline: none;
+}
+
+/* Button lưu */
+.btn-submit {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hiệu ứng khi hover vào button */
+.btn-submit:hover {
+    background: linear-gradient(135deg, #0056b3, #00408a);
+    transform: scale(1.02);
+}
+
+/* Hiển thị lỗi */
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}

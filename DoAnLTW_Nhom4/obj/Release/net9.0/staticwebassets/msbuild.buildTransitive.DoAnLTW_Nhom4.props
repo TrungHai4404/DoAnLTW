@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DoAnLTW_Nhom4.props" />
+</Project>

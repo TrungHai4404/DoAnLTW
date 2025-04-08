@@ -152,6 +152,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -166,10 +170,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Areas/Identity/Pages/Account/Manage/Index.cshtml]
@@ -222,6 +222,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Category/_ProductListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcX1Byb2R1Y3RMaXN0UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Home/Index.cshtml]
@@ -339,6 +343,10 @@ build_metadata.AdditionalFiles.CssScope = b-qmom0xp3cp
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tui2gqbf74
+
+[C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-lwiyj0ic5n
 
 [C:/Users/LENOVO/OneDrive/Máy tính/DoAnLTW/DoAnLTW_Nhom4/Views/Shared/_LayoutAccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBY2Nlc3NEZW5pZWQuY3NodG1s

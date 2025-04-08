@@ -1,0 +1,162 @@
+﻿/* CSS chung cho các nút (btn) */
+.btn {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+    .btn:hover {
+        transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+/* Nút danger (màu đỏ) */
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+}
+
+    .btn-danger:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
+        color: #fff;
+    }
+
+/* Nút cancel (hủy) */
+.cancel-btn {
+    background-color: #6c757d; /* Màu xám */
+    color: #fff;
+    border-color: #6c757d;
+}
+
+    .cancel-btn:hover {
+        background-color: #5a6268;
+        border-color: #545b62;
+        color: #fff;
+    }
+
+/* Nút update (cập nhật) */
+.update-btn {
+    background-color: #17a2b8; /* Màu xanh dương */
+    color: #fff;
+    border-color: #17a2b8;
+}
+
+    .update-btn:hover {
+        background-color: #138496;
+        border-color: #117a8b;
+        color: #fff;
+    }
+.remove-btn {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+}
+    .remove-btn:hover {
+        background-color: #5a6268;
+        border-color: #545b62;
+        color: #fff;
+    }
+
+/* Nút back (trở lại) */
+.back-btn {
+    background-color: #007bff; /* Màu xanh dương */
+    color: #fff;
+    border-color: #007bff;
+}
+
+    .back-btn:hover {
+        background-color: #0069d9;
+        border-color: #0062cc;
+        color: #fff;
+    }
+
+/* Nút add product (thêm sản phẩm) */
+.add-product-btn {
+    background-color: #28a745; /* Màu xanh lá cây */
+    color: #fff;
+    border-color: #28a745;
+    margin-bottom: 10px;
+}
+
+    .add-product-btn:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+        color: #fff;
+    }
+
+/* Nút add brand (thêm thương hiệu) */
+.add-brand-btn {
+    background-color: #ffc107; /* Màu vàng */
+    color: #212529;
+    border-color: #ffc107;
+    margin-bottom:10px;
+}
+
+    .add-brand-btn:hover {
+        background-color: #e0a800;
+        border-color: #d39e00;
+        color: #212529;
+    }
+
+/* Nút add category (thêm danh mục) */
+.add-category-btn {
+    background-color: #fd7e14; /* Màu cam */
+    color: #fff;
+    border-color: #fd7e14;
+    margin-bottom: 10px;
+}
+
+    .add-category-btn:hover {
+        background-color: #e6700d;
+        border-color: #da6806;
+        color: #fff;
+    }
+
+/* CSS cho các nút icon (edit, view, delete) */
+.edit-btn,
+.view-btn,
+.delete-btn {
+    display: inline-flex; /* Sử dụng flexbox để căn giữa icon và text (nếu có) */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    width: 32px; /* Kích thước cố định, bạn có thể điều chỉnh */
+    height: 32px; /* Kích thước cố định, bạn có thể điều chỉnh */
+    padding: 0; /* Loại bỏ padding mặc định */
+    font-size: 1rem; /* Kích thước icon */
+    text-decoration: none; /* Loại bỏ gạch chân mặc định */
+    border-radius: 15%; /* Bo tròn thành hình tròn */
+    transition: background-color 0.15s ease-in-out;
+}
+
+.edit-btn {
+    background-color: #ffc107; /* Màu vàng */
+    color: #212529;
+}
+
+    .edit-btn:hover {
+        background-color: #e0a800;
+    }
+
+.view-btn {
+    background-color: #17a2b8; /* Màu xanh dương */
+    color: #fff;
+}
+
+    .view-btn:hover {
+        background-color: #138496;
+    }
+
+.delete-btn {
+    background-color: #dc3545; /* Màu đỏ */
+    color: #fff;
+}
+
+    .delete-btn:hover {
+        background-color: #c82333;
+    }

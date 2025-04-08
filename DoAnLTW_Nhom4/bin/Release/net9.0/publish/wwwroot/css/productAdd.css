@@ -1,0 +1,101 @@
+﻿
+.product-form-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.product-form-header {
+    text-align: center;
+    color: #343a40; /* Dark gray */
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+/* Card Styles */
+.product-form-card {
+    border: none;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.08); /* Subtle shadow */
+    border-radius: 0.5rem;
+    overflow: hidden; /* Ensure rounded corners are respected */
+    background-color: #fff;
+}
+
+.card-header {
+    background-color: #f0f0f0;
+    padding: 15px;
+    font-weight: 500;
+    color: #495057;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+/* Form Styles */
+.product-form-group {
+    margin-bottom: 20px;
+}
+
+.control-label {
+    font-size: 1rem;
+    color: #495057;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.product-form-input,
+.product-form-select,
+.product-form-textarea,
+.product-form-file {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+    .product-form-input:focus,
+    .product-form-select:focus,
+    .product-form-textarea:focus,
+    .product-form-file:focus {
+        border-color: #80bdff;
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+
+.product-form-textarea {
+    resize: vertical; /* Allow vertical resizing */
+    height: 100px;
+}
+
+.text-danger {
+    font-size: 0.9rem;
+    color: #dc3545;
+}
+
+/* Specification Styles */
+.product-spec-container {
+    margin-bottom: 20px;
+}
+
+.product-spec-item {
+    margin-bottom: 10px;
+}
+
+/* Smaller screens */
+@media (max-width: 768px) {
+    .product-form-container {
+        padding: 10px;
+    }
+
+    .product-form-header {
+        font-size: 1.75rem;
+    }
+
+    .product-form-group .col-md-6 {
+        margin-bottom: 15px; /* Add space between columns on smaller screens */
+    }
+}

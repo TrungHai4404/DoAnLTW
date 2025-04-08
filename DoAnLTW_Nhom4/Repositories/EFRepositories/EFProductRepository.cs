@@ -153,16 +153,10 @@ namespace DoAnLTW_Nhom4.Repositories.EFRepositories
         }
         public async Task<IEnumerable<Product>> GetFilteredProductsAsync(string search, int? categoryId, int? brandId, decimal? minPrice, decimal? maxPrice, string sortOrder, bool? inStock, bool? hasDiscount)
         {
-            //if (string.IsNullOrEmpty(search) && categoryId == null && minPrice == null && maxPrice == null && brandId == null && sortOrder == null && inStock == null && hasDiscount == null)
-            //{
-            //    return new List<Product>(); // Trả về danh sách rỗng nếu không có điều kiện nào
-            //}
             var query = _context.Products.AsQueryable();
 
             if (!string.IsNullOrEmpty(search))
                 query = query.Where(p => EF.Functions.Like(p.Name, $"%{search}%"));
-
-
             if (categoryId.HasValue)
                 query = query.Where(p => p.CategoryId == categoryId);
 

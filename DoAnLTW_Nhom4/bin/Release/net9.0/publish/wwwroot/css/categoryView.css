@@ -1,0 +1,113 @@
+﻿/* CSS chung cho khu vực quản lý (admin) */
+.admin-container {
+    padding: 20px;
+    background-color: #f8f9fa; /* Màu xám nhạt */
+    border-radius: 5px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); /* Hiệu ứng đổ bóng nhẹ */
+}
+
+    .admin-container h2 {
+        margin-bottom: 20px;
+        font-size: 1.75rem;
+        font-weight: 600;
+        color: #343a40; /* Màu xám đậm */
+    }
+
+/* CSS cho bảng quản lý */
+.admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    table-layout: auto; /* Quan trọng: Đảm bảo bảng vừa với nội dung */
+}
+
+    .admin-table th,
+    .admin-table td {
+        padding: 0.75rem;
+        border-bottom: 1px solid #dee2e6; /* Đường kẻ ngang giữa các hàng */
+        text-align: left;
+        vertical-align: middle; /* Căn giữa nội dung theo chiều dọc */
+        word-break: break-word; /* Xuống dòng nếu nội dung quá dài */
+    }
+
+    .admin-table thead th {
+        background-color: #e9ecef; /* Màu xám nhạt cho tiêu đề */
+        font-weight: 600;
+        color: #495057;
+    }
+
+/* CSS cho các liên kết hành động (view, edit, delete) */
+.action-links {
+    white-space: nowrap; /* Ngăn các liên kết xuống dòng */
+}
+
+    .action-links a {
+        display: inline-flex; /* Sử dụng flexbox để căn giữa icon và text (nếu có) */
+        align-items: center; /* Căn giữa theo chiều dọc */
+        justify-content: center; /* Căn giữa theo chiều ngang */
+        font-size: 1rem; /* Kích thước icon */
+        text-decoration: none; /* Loại bỏ gạch chân mặc định */
+        transition: background-color 0.15s ease-in-out;
+        margin-right: 0.25rem; /* Khoảng cách giữa các nút */
+    }
+
+/* CSS cho hình ảnh trong bảng */
+.admin-table img {
+    max-width: 50px;
+    height: auto;
+    border-radius: 3px; /* Bo tròn góc ảnh */
+    box-shadow: 0 0.0625rem 0.125rem rgba(0, 0, 0, 0.05); /* Đổ bóng nhẹ */
+}
+
+/* CSS cho form */
+form {
+    width: 100%;
+    max-width: 600px; /* Giới hạn chiều rộng form */
+    margin: 0 auto; /* Căn giữa form */
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+    .form-group label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        color: #495057;
+    }
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+    .form-control:focus {
+        border-color: #80bdff;
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+
+.text-danger {
+    color: #dc3545;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+    display: block; /* Hiển thị lỗi trên dòng riêng */
+}
+/* CSS cho hình ảnh preview */
+#productImage {
+    max-width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 1rem; /* Thêm khoảng cách phía trên ảnh */
+    box-shadow: 0 0.0625rem 0.125rem rgba(0, 0, 0, 0.05); /* Đổ bóng nhẹ */
+    display: block; /* Đảm bảo ảnh nằm trên dòng riêng */
+}

@@ -1,0 +1,135 @@
+/* Coupon Management Styles */
+.coupon-container {
+    padding: 20px;
+}
+
+.coupon-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.coupon-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e3e6f0;
+    padding: 15px;
+}
+
+.coupon-card .card-body {
+    padding: 20px;
+}
+
+.coupon-form .form-group {
+    margin-bottom: 1.5rem;
+}
+
+.coupon-form label {
+    font-weight: 600;
+    color: #5a5c69;
+}
+
+.coupon-form .form-control {
+    border-radius: 4px;
+    border: 1px solid #d1d3e2;
+    padding: 0.75rem;
+}
+
+.coupon-form .form-control:focus {
+    border-color: #4e73df;
+    box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+}
+
+.coupon-form .btn {
+    padding: 0.5rem 1.5rem;
+    font-weight: 600;
+    border-radius: 4px;
+}
+
+.coupon-form .btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.coupon-form .btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+
+.coupon-form .btn-secondary {
+    background-color: #858796;
+    border-color: #858796;
+}
+
+.coupon-form .btn-secondary:hover {
+    background-color: #717384;
+    border-color: #6b6d7d;
+}
+
+/* Table Styles */
+.table-responsive {
+    margin-top: 20px;
+}
+
+.table th {
+    background-color: #f8f9fc;
+    color: #5a5c69;
+    font-weight: 600;
+    border-bottom: 2px solid #e3e6f0;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+/* Status Switch */
+.custom-switch {
+    padding-left: 2.25rem;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .coupon-container {
+        padding: 10px;
+    }
+
+    .coupon-card {
+        margin-bottom: 15px;
+    }
+
+    .table-responsive {
+        margin-top: 15px;
+    }
+}
+
+/* Animation */
+.coupon-card {
+    transition: transform 0.3s ease;
+}
+
+.coupon-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Custom Scrollbar */
+.table-responsive::-webkit-scrollbar {
+    height: 8px;
+}
+
+.table-responsive::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb:hover {
+    background: #555;
+} 

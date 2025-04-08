@@ -1,36 +1,17 @@
-﻿@using DoAnLTW_Nhom4.Areas.Identity.Pages.Account.Manage
-@using DoAnLTW_Nhom4.Models
+﻿@using DoAnLTW_Nhom4.Models
 @inject SignInManager<ApplicationUser> SignInManager
+
 @{
     var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
 }
-<ul class="account-menu">
-    <li class="nav-item">
-        <a class="nav-link @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">
-            <i class="fas fa-user-circle"></i> Profile
-        </a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link @ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email">
-            <i class="fas fa-envelope"></i> Email
-        </a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword">
-            <i class="fas fa-lock"></i> Password
-        </a>
-    </li>
+<ul class="nav nav-pills flex-column">
+    <li class="nav-item"><a class="nav-link @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index">Profile</a></li>
+    <li class="nav-item"><a class="nav-link @ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email">Email</a></li>
+    <li class="nav-item"><a class="nav-link @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword">Password</a></li>
     @if (hasExternalLogins)
     {
-        <li class="nav-item">
-            <a class="nav-link @ManageNavPages.ExternalLoginsNavClass(ViewContext)" asp-page="./ExternalLogins">
-                <i class="fas fa-link"></i> External Logins
-            </a>
-        </li>
+        <li id="external-logins" class="nav-item"><a id="external-login" class="nav-link @ManageNavPages.ExternalLoginsNavClass(ViewContext)" asp-page="./ExternalLogins">External logins</a></li>
     }
-    <li class="nav-item">
-        <a class="nav-link @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData">
-            <i class="fas fa-user-shield"></i> Personal Data
-        </a>
-    </li>
+    <li class="nav-item"><a class="nav-link @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)" id="two-factor" asp-page="./TwoFactorAuthentication">Two-factor authentication</a></li>
+    <li class="nav-item"><a class="nav-link @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData">Personal data</a></li>
 </ul>
